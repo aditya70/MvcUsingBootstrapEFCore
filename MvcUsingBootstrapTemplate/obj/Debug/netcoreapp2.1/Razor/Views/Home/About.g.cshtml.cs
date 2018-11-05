@@ -82,7 +82,7 @@ Write(ViewData["Message"]);
             WriteLiteral("</h3>\r\n\r\n<p>Use this area to provide additional information.</p>\r\n\r\n<div id=\"contactpage\">\r\n\r\n    <h1>");
             EndContext();
             BeginContext(196, 68, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ad1ebf6bc0814ee9bfabaf96894efcea", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8ac795909fd34d358cb3b6fe3755b364", async() => {
                 BeginContext(242, 18, true);
                 WriteLiteral("Go To contact Page");
                 EndContext();
@@ -106,7 +106,7 @@ Write(ViewData["Message"]);
             WriteLiteral("</h1>\r\n</div>\r\n\r\n<div id=\"indexpage\">\r\n\r\n    <h1>");
             EndContext();
             BeginContext(313, 64, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fe11383991314ff79d91ba900fc09494", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "70766a6f6ad3466597daaaee80c928a9", async() => {
                 BeginContext(357, 16, true);
                 WriteLiteral("Go To index Page");
                 EndContext();

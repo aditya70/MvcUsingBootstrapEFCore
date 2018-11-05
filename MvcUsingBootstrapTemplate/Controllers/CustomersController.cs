@@ -132,7 +132,11 @@ namespace MvcUsingBootstrapTemplate.Controllers
 
             return View(customers);
         }
-
+        /// <summary>
+        /// Deletes a specific TodoItem.
+        /// </summary>
+        /// <param name="id"></param>        
+       
         // POST: Customers/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]

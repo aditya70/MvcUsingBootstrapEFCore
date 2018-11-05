@@ -99,7 +99,7 @@ using MvcUsingBootstrapTemplate.Models;
     <h1>");
             EndContext();
             BeginContext(579, 64, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6511c536d4b7446c90c1c3fdce17daab", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "f253a791ee2e4c608118311204223a91", async() => {
                 BeginContext(623, 16, true);
                 WriteLiteral("Go To About Page");
                 EndContext();
@@ -123,7 +123,7 @@ using MvcUsingBootstrapTemplate.Models;
             WriteLiteral("</h1>\r\n</div>\r\n\r\n<div id=\"indexpage\">\r\n\r\n    <h1>");
             EndContext();
             BeginContext(692, 64, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ba9c867669f141ae94c06ae582d33889", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "408ddf161afe4db994faf0c28c67b127", async() => {
                 BeginContext(736, 16, true);
                 WriteLiteral("Go To Index Page");
                 EndContext();
